@@ -1,0 +1,58 @@
+## Lesson 2.1 — Python for ML
+1. Topics:
+
++ Python basics (loops, functions, lists)
+
++ Classes & OOP for model building
+
++ Plotting with matplotlib
+
+2. Exercises:
+
++ Write a class “SimpleDataset”
+
++ Plot a simple sine wave
+
+## Lesson 2.2 — NumPy Essentials
+1. Topics:
+
++ Vectorized operations
+
++ Broadcasting
+
++ Random number generation
+
+2. Exercises:
+
++ Implement a matrix multiplication function
+
++ Implement a simple forward pass: y = Wx + b
+
+## Lesson 2.3 — PyTorch Basics
+1. Topics:
+
++ Tensors
+
++ Autograd
+
++ Optimizers (SGD, Adam)
+
++ Simple training loops
+
+2. Exercises:
+
++ Build a linear regression model
+
++ Build a 2-layer neural network
+
++ Train it on synthetic data
+
+3. Mini Project:
+
++ Train a classifier on a tiny dataset:
+
+  + 2D points
+
+  + Two classes
+
+  + Visualize the decision boundary
